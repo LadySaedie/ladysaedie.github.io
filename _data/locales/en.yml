@@ -3,14 +3,14 @@
 
 layout:
   post: Post
-  category: Category
+  category: Catalogue
   tag: Keywords
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Categories
+  categories: Catalogue
   tags: Keywords
   archives: Archive
   about: About
