@@ -4,14 +4,14 @@
 layout:
   post: Post
   category: Category
-  tag: Tag
+  tag: Keywords
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
   categories: Categories
-  tags: Tags
+  tags: Keywords
   archives: Archive
   about: About
 
@@ -23,7 +23,7 @@ search:
 
 panel:
   lastmod: Recently Updated
-  trending_tags: Recent Tags
+  trending_tags: Recent Keywords
   toc: Contents
 
 copyright:
