@@ -3,8 +3,8 @@
 
 layout:
   post: Post
-  category: Catalogue
-  tag: Keywords
+  catalogue: Catalogue
+  keyword: Keywords
 
 # The tabs of sidebar
 tabs:
