@@ -2,9 +2,8 @@
 title: "Carol Millington"
 date: 2024-12-01
 description: A True Story.
-categories: [Autobiographical]
+categories: [All, Autobiographical]
 tags: [carol, sing, high school, died, fire, jesus christ, superstar, how to love him]
-toc: true
 ---
 
 I don’t remember how old I was exactly when this incident happened, but I was probably fifteen, going on sixteen – the early seventies – over fifty years ago; about the time “Jesus Christ Superstar” was all the rage in the UK. I was at that ungainly age in secondary school when the girls in my class blossomed into alluring adolescent beauties, and I, well, just squeaked and grew pimples.

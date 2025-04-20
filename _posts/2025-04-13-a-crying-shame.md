@@ -2,9 +2,8 @@
 title: "A Crying Shame"
 date: 2025-04-13
 description: My First Day of School. A True Story.
-categories: [Autobiographical]
+categories: [All, Autobiographical]
 tags: [first day, primary school, crying, blocks]
-toc: true
 ---
 
 For reasons I cannot explain, one of my earliest memories is of my first day of school. Perhaps I remember it so well because it was the first time that I was separated from my mother; the first time that I experienced the unfairness of life, and the first time that I felt a good deal of pain at the hands of someone other than my dad.

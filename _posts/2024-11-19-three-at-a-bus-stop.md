@@ -2,9 +2,8 @@
 title: "Three At A Bus Stop"
 date: 2024-11-19
 description: An experiment in writing the absurd.
-categories: [Absurd]
+categories: [All, Absurd]
 tags: [family, bus stop, vomit, git, tramp, prude]
-toc: true
 ---
 
 “The number 6 is always late on Thursdays,” muttered Mrs Nel Gardner under her breath in perfect English to no one in particular as she peered down the street willing the bus to magically appear and rescue her from this horrible weekly ordeal. With a shiver of her shoulders she resigned herself to waiting in the queue with the other two. 
