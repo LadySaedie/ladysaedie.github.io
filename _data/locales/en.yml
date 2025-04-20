@@ -12,18 +12,18 @@ tabs:
   home: Home
   categories: Categories
   tags: Tags
-  archives: Archives
+  archives: Archive
   about: About
 
 # the text displayed in the search bar & search results
 search:
   hint: search
   cancel: Cancel
-  no_results: Oops! No results found.
+  no_results: Oops! No results
 
 panel:
   lastmod: Recently Updated
-  trending_tags: Trending Tags
+  trending_tags: Recent Tags
   toc: Contents
 
 copyright:
@@ -34,7 +34,7 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: All rights reserved.
   verbose: >-
     Except where otherwise noted, the blog posts on this site are licensed
     under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
