@@ -10,10 +10,10 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Catalogue
+  categories: Catalogues
   tags: Keywords
   archives: Archive
-  about: About
+  about: BTW
 
 # the text displayed in the search bar & search results
 search:
@@ -22,9 +22,9 @@ search:
   no_results: Oops! No results
 
 panel:
-  lastmod: Recently Updated
+  lastmod: Recent Updates
   trending_tags: Recent Keywords
-  toc: Contents
+  toc: Chapters
 
 copyright:
   # Shown at the bottom of the post
@@ -36,8 +36,8 @@ copyright:
   # Displayed in the footer
   brief: All rights reserved.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Except where otherwise noted, the blog posts on this site are licenced
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) Licence by the author.
 
 meta: Using the :PLATFORM theme :THEME.
 
@@ -85,8 +85,8 @@ df:
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: catalogue
+    plural: catalogues
   post_measure:
     singular: post
     plural: posts
