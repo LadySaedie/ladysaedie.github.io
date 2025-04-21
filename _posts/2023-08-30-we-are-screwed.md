@@ -36,4 +36,4 @@ The Milky Way and Andromeda galaxies collide, forming Milkomeda. The Solar Syste
 The Sun shrinks into a tiny white dwarf, twinkling brightly before going out.
 
 #### Year 10
-If anything’s left of our Solar System in Milkomeda, it’s a cold, dark relic drifting in space.
+There won't be much left of our Solar System in ten years, just a few cold, dark rocks drifting aimlessly about in space.
