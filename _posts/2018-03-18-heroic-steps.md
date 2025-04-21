@@ -10,7 +10,7 @@ He stumbled so unexpectedly out of the barely open elevator doors that I nearly 
 
 I stopped. Just. Unnoticed by him.
 
-And I watched this thin, unched-over, be-sticked cardigan of a man shuffle and slipper along. 
+And I watched this thin, be-sticked cardigan of a man shuffle and slipper along. 
 
 He was ill, gravely. A dead man huffing; yet, with each and every step of his enfeebled gait he moved with grit and guts. A survivng soldier. 
 
