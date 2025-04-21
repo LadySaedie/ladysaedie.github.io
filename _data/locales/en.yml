@@ -51,13 +51,13 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: By
+  written_by: Penned by
   posted: Posted on
   updated: Updated on
   words: words
   pageview_measure: views
   read_time:
-    unit: min
+    unit: minute
     prompt: read
   relate_posts: More
   share: Share
