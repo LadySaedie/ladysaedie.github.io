@@ -3,7 +3,7 @@ title: "We're Screwed"
 description: A digestible timeline of the end of the Solar System.
 date: 2023-08-30
 categories: [All, Musings]
-tags: [sun, end of earth, cosmic timeline, astronomy, white dwarf, galaxy, billion]
+tags: [sun, end of earth, cosmic timeline, astronomy, white dwarf, galaxy, billion years]
 ---
 
 Fun fact: humanity and the planet will come to an end. Horribly. Science warns us that the Earth won't keep on going round the sun in its wobbly orbit forever. The Earth, and everything on it, will perish. This is not conjecture. It is inevitable.
