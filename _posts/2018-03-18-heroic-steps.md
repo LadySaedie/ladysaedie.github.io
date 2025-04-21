@@ -2,6 +2,7 @@
 title: "Heroic Steps"
 description: An observation.
 date: 2018-03-18
+last_modified_at: 2025-04-21
 categories: [All, Musings]
 tags: [old, heroism, shuffle]
 ---
