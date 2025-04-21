@@ -18,4 +18,4 @@ yet, with each and every step of his enfeebled gait
 he moved with grit and guts;
 the soldier surviving. 
 
-And I beheld the dauntless indomitable fortitude of heroic steps.
+And I beheld the dauntless, indomitable fortitude of heroic steps.
