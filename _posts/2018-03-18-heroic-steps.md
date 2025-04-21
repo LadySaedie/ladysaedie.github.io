@@ -13,9 +13,9 @@ I stopped. Just. Unnoticed by him.
 
 And I watched this thin, be-sticked cardigan of a man shuffle and slipper along. 
 
-He was ill, gravely. A dead man huffing; 
-yet, with each and every step of his enfeebled gait 
-he moved with grit and guts;
-the soldier surviving. 
+He was ill, gravely. A dead man huffing;  
+yet, with each and every step of his enfeebled gait  
+he moved with grit and guts;  
+the soldier surviving.
 
 And I beheld the dauntless, indomitable fortitude of heroic steps.
