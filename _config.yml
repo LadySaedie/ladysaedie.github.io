@@ -38,8 +38,8 @@ social:
   email: philip58@zohomail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/dinnersreadyza # change to your Twitter homepage
     - https://github.com/LadySaedie # change to your GitHub homepage
+    - https://x.com/dinnersreadyza # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -147,7 +147,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 5
 
 # The base URL of your site
 baseurl: ""
