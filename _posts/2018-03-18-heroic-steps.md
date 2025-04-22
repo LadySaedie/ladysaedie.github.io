@@ -2,12 +2,13 @@
 title: "Heroic Steps"
 description: A humbling observation.
 date: 2018-03-18
+last_modified_at: 2025-04-20
 last_modified_at: 2025-04-22
 categories: [Fiction, Musings]
 tags: [old, heroism, shuffle]
 ---
 
-He stumbled unexpectedly out of the barely open elevator doors that I nearly strode right into him.
+He stumbled so unexpectedly out of the barely open elevator doors that I nearly strode right into him.
 
 I stopped. Just. Unnoticed by him.
 

@@ -1,6 +1,7 @@
 ---
 title: "Three At A Bus Stop"
 date: 2024-11-19
+last_modified_at: 2025-04-20
 description: An experiment in writing the absurd.
 categories: [Fiction, Absurd]
 tags: [family, bus stop, vomit, git, tramp, prude]

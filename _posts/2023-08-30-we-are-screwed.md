@@ -2,6 +2,7 @@
 title: "We're Screwed"
 description: A digestible timeline of the end of the Solar System.
 date: 2023-08-30
+last_modified_at: 2025-04-22
 categories: [Fiction, Musings]
 tags: [sun, end of earth, cosmic timeline, astronomy, white dwarf, galaxy, billion years]
 ---
