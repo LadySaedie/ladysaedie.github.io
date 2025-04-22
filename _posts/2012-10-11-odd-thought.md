@@ -3,7 +3,7 @@ title: "An Odd Thought"
 description: Animal Rights v. Pro-Life
 date: 2012-10-11
 last_modified_at: 2025-04-21
-categories: [All, Fiction, Musings]
+categories: [Fiction, Musings]
 tags: [vegan, pro-life, animal rights]
 ---
 
