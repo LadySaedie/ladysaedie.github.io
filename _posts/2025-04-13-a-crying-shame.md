@@ -2,7 +2,7 @@
 title: "A Crying Shame"
 date: 2025-04-13
 description: My First Day of School. A True Story.
-categories: [Non-Fiction, Autobiographical]
+categories: [Autobiographical, Child]
 tags: [first day, primary school, crying, blocks]
 ---
 
