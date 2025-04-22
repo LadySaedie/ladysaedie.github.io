@@ -59,11 +59,11 @@ post:
   read_time:
     unit: minute
     prompt: read
-  relate_posts: Read more?
+  relate_posts: 'Random selection from this catalogue:'
   share: Share
   button:
-    next: Newer
-    previous: Older
+    next: Next Newer
+    previous: Next Older
     copy_code:
       succeed: Copied!
     share_link:
