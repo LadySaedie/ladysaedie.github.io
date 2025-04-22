@@ -3,6 +3,7 @@ title: "READ ME FIRST"
 description: Why 'Recent Updates' doesn't always change
 date: 2025-04-22
 last_modified_at: 2025-04-22T21:00+02:00
+pin: true
 ---
 
 This is a new blog. I have moved away from Blogspot, Wordpress and most recently from Substack to host my own blog on Github where I have so much more control, and there's no more pesky ads.
