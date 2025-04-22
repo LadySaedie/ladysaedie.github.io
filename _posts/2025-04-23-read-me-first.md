@@ -2,11 +2,12 @@
 title: "READ ME FIRST"
 description: Why 'Recent Updates' doesn't always change
 date: 2025-04-22
+last_modified_at: 2025-04-22T21:00
 ---
 
-This is a new blog. I have moved away from Blogspot, Wordpress and Substack to hosting my own blog on Github where I have so much more control, and there's no more pesky ads. 
+This is a new blog. I have moved away from Blogspot, Wordpress and most recently from Substack to host my own blog on Github where I have so much more control, and there's no more pesky ads.
 
-All my old blog posts are being relocated piecemeal and edited on the fly. So, you won't necessarily find the most recently added post in the 'Recent Updates' section on the right because the posts are sorted chronologically, i.e., when they were written, not when they were edited or moved. So, you'll need to check the 'Archive' section on the left and look for posts you haven't read yet. This is temporary.
+All my old blog posts are being relocated piecemeal and edited on the fly, so 'new' posts might not always appear in the 'Recent Updates' list on the right if I do more than five updates before you log in again. It's therefore a good idea to check the 'Archive' section on the left and scroll up and down to find the posts you haven't read yet. This is temporary.
 
 I will remove this post once I have copied across all the legacy stuff, but it'll take some time.
 
