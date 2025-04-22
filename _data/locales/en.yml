@@ -59,7 +59,7 @@ post:
   read_time:
     unit: minute
     prompt: read
-  relate_posts: More
+  relate_posts: Read more?
   share: Share
   button:
     next: Newer
