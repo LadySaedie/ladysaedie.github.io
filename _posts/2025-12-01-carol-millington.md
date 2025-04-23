@@ -5,6 +5,9 @@ last_modified_at: 2025-04-21
 description: A True Story.
 categories: [Autobiographical, Teenager]
 tags: [carol, sing, high school, died, fire, jesus christ, superstar, how to love him]
+image:
+  path: /assets/img/carol-millington.jpg
+  alt: "...he asked us to welcome her on stage..."
 ---
 
 I don’t remember how old I was exactly when this incident happened, but I was probably fifteen, going on sixteen – the early seventies – over fifty years ago; about the time “Jesus Christ Superstar” was all the rage in the UK. I was at that ungainly age in secondary school when the girls in my class blossomed into alluring adolescent beauties, and I, well, just squeaked and grew pimples.
