@@ -1,5 +1,5 @@
 ---
-title: "READ ME FIRST"
+title: "READ THIS FIRST"
 description: Why 'Recent Updates' doesn't always change
 date: 2025-04-22
 last_modified_at: 2025-04-23T20:20+02:00
