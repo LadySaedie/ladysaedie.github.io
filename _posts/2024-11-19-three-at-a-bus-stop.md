@@ -5,6 +5,9 @@ last_modified_at: 2025-04-20
 description: An experiment in writing the absurd.
 categories: [Fiction, Absurd]
 tags: [family, bus stop, vomit, git, tramp, prude]
+image:
+  path: /assets/img/bus-stop.jpg
+  alt: "Waiting For The No. 6 Bus"
 ---
 
 “The number 6 is always late on Thursdays,” muttered Mrs Nel Gardner under her breath in perfect English to no one in particular as she peered down the street willing the bus to magically appear and rescue her from this horrible weekly ordeal. With a shiver of her shoulders she resigned herself to waiting in the queue with the other two. 
