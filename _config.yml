@@ -20,7 +20,7 @@ tagline: Tales of Lady Saedie's  Memories, Mischief and Musings # it will displa
 
 description: >- # used by seo meta and the atom feed
   Tales of Lady Saedie's  Memories, Mischief and Musings
-  
+
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ladysaedie.github.io"
@@ -147,7 +147,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 5
+paginate: 4
 
 # The base URL of your site
 baseurl: ""
