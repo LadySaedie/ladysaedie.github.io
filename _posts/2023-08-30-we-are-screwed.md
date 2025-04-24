@@ -5,6 +5,9 @@ date: 2023-08-30
 last_modified_at: 2025-04-22
 categories: [Fiction, Musings]
 tags: [sun, end of earth, cosmic timeline, astronomy, white dwarf, galaxy, billion years]
+image:
+  path: /assets/img/andromeda.jpg
+  alt: "...Yep, we're screwed..."
 ---
 
 Fun fact: humanity and the planet will come to an end. Horribly. Science warns us that the Earth won't keep on going round the sun in its wobbly orbit forever. The Earth, and everything on it, will perish. This is not conjecture. It is inevitable.
