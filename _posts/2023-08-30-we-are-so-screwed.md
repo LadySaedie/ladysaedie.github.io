@@ -1,5 +1,5 @@
 ---
-title: "We're Screwed"
+title: "We're So Screwed"
 description: A digestible timeline of the end of the Solar System.
 date: 2023-08-30
 last_modified_at: 2025-04-22
