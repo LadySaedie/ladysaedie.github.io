@@ -5,6 +5,9 @@ last_modified_at: 2025-04-22
 description: Trauma on Day One. A True Story.
 categories: [Autobiographical, Child]
 tags: [first day, primary school, crying, blocks, bullying, trauma]
+image:
+  path: /assets/img/crying-shame-blocks.jpg
+  alt: "...it looked like someone had tried to eat it..."
 ---
 
 For reasons I cannot explain, one of my earliest memories is of my first day of school. Perhaps I remember it so well because it was the first time that I was separated from my mother; the first time that I experienced the unfairness of life, and the first time that I felt a good deal of pain at the hands of someone other than my dad.
