@@ -5,6 +5,9 @@ date: 2013-08-03
 last_modified_at: 2025-04-22
 categories: [Autobiographical, Adult]
 tags: [garbage, respect, humility]
+image:
+  path: /assets/img/moses.png
+  alt: "...his name was Moses..."
 ---
 
 Weirdest thing. I was about to leave for a trip on my bike, early, when I realised that I hadn’t done my weekly chore of putting out the garbage. If I don’t do it, I run the risk of getting my 'kitchen pass' revoked. So, I had to do it.
