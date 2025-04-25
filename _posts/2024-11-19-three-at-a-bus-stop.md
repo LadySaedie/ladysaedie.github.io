@@ -6,7 +6,7 @@ description: An experiment in writing the absurd.
 categories: [Fiction, Absurd]
 tags: [family, bus stop, vomit, git, tramp, prude]
 image:
-  path: /assets/img/bus-stop.jpg
+  path: /assets/img/bus-stop.png
   alt: "Waiting For The No. 6 Bus"
 ---
 
