@@ -5,6 +5,9 @@ date: 2012-10-11
 last_modified_at: 2025-04-21
 categories: [Fiction, Musings]
 tags: [vegan, pro-life, animal rights]
+image:
+  path: /assets/img/odd-thought.png
+  alt: "...rescue a rat..."
 ---
 
 It has always seemed to me an odd thought that animal rights activists and Pro-Life supporters are frequently politically polar opposites: animal rights activists are generally on the political left, and Pro-Life supporters are generally on the political right. I mean, aren’t both ideologies facing in the same direction, that is, towards the sanctity of life?
