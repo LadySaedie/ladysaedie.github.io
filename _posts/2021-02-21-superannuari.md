@@ -7,6 +7,9 @@ categories: [Autobiographical, Adult]
 tags: [age, ageing, reflection]
 excerpt: A poetic reflection on ageing, where the mind and body race at odds, leaving me a superannuari.
 pin: false
+image:
+  path: /assets/img/superannuari.jpg
+  alt: "...Keep up! Keep up!..."
 ---
 
 You don’t notice it at first, when it happens. It’s like you drift sleepily through it. It’s a surreptitious thing. But, one morning you will awaken, and you will know it's happened. 
