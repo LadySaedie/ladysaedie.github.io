@@ -14,4 +14,4 @@ It has always seemed to me an odd thought that animal rights activists and Pro-L
 
 Even odder, then, is the thought that animal rights activists generally also support abortion rights. Put another way: how can the vocation to rescue the chicken from the chopping block not also extend to rescuing a baby from an abortion? I can’t wrap my head around that inconsistency. It seems counterintuitive. Life is life.
 
-The problem I have with this is that if someone can support the notion that it’s always right to rescue a rat but not a baby, it reveals a moral relativism that contradicts the universal sanctity of life that animal rights activists claim to defend. And that's an odd thought.
+The problem I have with this is that if someone can support the notion that it’s always right to rescue a rat but not a baby, it reveals a moral relativism that contradicts the universal sanctity of life that animal rights activists claim to defend. And that's an odd thought
