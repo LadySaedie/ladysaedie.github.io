@@ -10,7 +10,7 @@ image:
   alt: "Waiting For The No. 6 Bus"
 ---
 
-“The number 6 is always late on Thursdays,” muttered Mrs Nel Gardner under her breath in perfect English to no one in particular as she peered down the street willing the bus to magically appear and rescue her from this horrible weekly ordeal. With a shiver of her shoulders she resigned herself to waiting in the queue with the other two. 
+“The number 6 is always late on Thursdays,” muttered Mrs Nel Gardner under her breath in perfect English to no one in particular as she peered down the street willing the bus to magically appear and rescue her from this horrible weekly ordeal. With a shiver of her shoulders she resigned herself to waiting in the queue with the other two.
 
 Try as Mrs Nel Gardner might to avoid looking at the lout standing next to her, her eyes were irresistibly drawn to the ear she could see; which, in her considered opinion, had far too many studs and rings in it - far too many - and try as she might to not count them, she found herself beginning to count.
 
