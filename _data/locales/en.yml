@@ -1,6 +1,6 @@
 # The layout text of site
 # ----- Commons label -----
-lang: en
+# lang: en
 
 layout:
   post: Post
