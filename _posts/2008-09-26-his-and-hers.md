@@ -6,7 +6,8 @@ last_modified_at: 2025-04-26
 categories: [Fiction, Absurd]
 tags: [restaurant, french, smells, difference]
 excerpt: Two very different takes on the same event.
-pin: false
+pin: falset
+toc: true
 image:
   path: /assets/img/his-and-hers.png
   alt: "...His and Hers..."
