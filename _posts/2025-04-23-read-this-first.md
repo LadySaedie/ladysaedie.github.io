@@ -2,7 +2,7 @@
 title: "READ THIS FIRST"
 description: Why 'Recent Updates' doesn't always change
 date: 2025-04-22
-last_modified_at: 2025-04-25T17:20+02:00
+last_modified_at: 2025-04-27T16:00+02:00
 pin: true
 image:
   path: /assets/img/first.jpg
