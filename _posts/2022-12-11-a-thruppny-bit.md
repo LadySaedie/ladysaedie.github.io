@@ -9,7 +9,7 @@ excerpt: A true tale of the day the UK went decimal and its effect on me as a ei
 pin: false
 toc: true
 image:
-  path: /assets/img/thruppny-bit.jpg
+  path: /assets/img/thruppny-bit.png
   alt: "...pocket money..."
 ---
 
