@@ -22,7 +22,7 @@ Then, with miles still to go, the range indicator hit zero. I knew I had some fu
 
 After about a year of travelling on idle, I arrived in Graaff-Reinet very late in the day. I filled up and headed to my B&B. En route, I rode down the main street when suddenly the Mother Church of Graaff-Reinet hoved into view, illuminated in wonderful glory against the deeply dark-blue dusk sky. I stopped the bike right there in the middle of the street, grabbed my phone and took that pic. No cars. No people. No Photoshop. No editing. Just ‘click’. 
 
-It was Graaff-Reinet saying, “Hello, you. Glad you made it.”
+It was Graaff-Reinet saying, “Hello, you. Glad you made it.” 
 
 <figure>
   <img src="/assets/img/graaff-reinet.png" alt="The best photo I have ever taken.">
