@@ -24,6 +24,5 @@ After about a year of travelling on idle, I arrived in Graaff-Reinet very late i
 
 It was Graaff-Reinet saying, “Hello, you. Glad you made it.”
 
-<div style="text-align: center;">
-  ![I think this is the best photograph I have ever taken](/assets/img/graaff-reinet.png)
-</div>
+![I think this is the best photograph I have ever taken](/assets/img/graaff-reinet.png)
+
