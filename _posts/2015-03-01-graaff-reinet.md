@@ -26,6 +26,5 @@ It was Graaff-Reinet saying, “Hello, you. Glad you made it.”
 
 <figure>
   <img src="/assets/img/graaff-reinet.png" alt="The best photo I have ever taken.">
-  <figcaption>I this this is the best photograph I have ever taken</figcaption>
+  <figcaption style="text-align: center;">The best photo I have ever taken</figcaption>
 </figure>
-
