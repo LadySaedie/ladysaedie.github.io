@@ -10,8 +10,7 @@ image:
   path: /assets/img/this-terrible-day.jpg
   alt: "...the sea knew no limits, this terrible day..."
 ---
-## This Terrible Day
-
+<hr>  
 *I wrote this poem in response to what came to be known as the Boxing Day Tsunami of 2004, a tragedy that claimed nearly a quarter of a million lives. This poem mourns the forgotten and pleads for their remembrance through prayer. It is based on the Catholic understanding that it is right and good to pray for the dead.*
 
 <hr>  
@@ -39,9 +38,9 @@ There was nothing I could do. Nothing.
 Why do you not believe me?
 
 I lost my whole family this terrible day  
-Brothers, sisters, cousins, aunts, uncles, nieces, nephews, grandparents
+Brothers, sisters, cousins, aunts, uncles, nieces, nephews, grandparents  
 Everyone.  
-I lost all my friends and neighbours, and enemies, too, this terrible day.
+I lost all my friends and neighbours, and enemies, too, this terrible day.  
 Everyone.  
 All who knew me are gone.  
 Everyone.
