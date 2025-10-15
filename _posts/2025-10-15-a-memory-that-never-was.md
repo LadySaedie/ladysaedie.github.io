@@ -13,16 +13,16 @@ image:
   alt: "...whatever..."
 ---
 
-A third my age, you awoke in me the man half my age.
-My cause was lost before it began.
-My reason's voice drowned in unheeded, hopeless pleas,
-and I fell, stumbling deep into the pit of want.
+A third my age, you awoke in me the man half my age.  
+My cause was lost before it began.  
+My reason's voice drowned in unheeded, hopeless pleas,  
+and I fell, stumbling deep into the pit of want.  
 
-In words more eloquent than I can pen,
-I have loved and lost, and now I wait in melancholy agony
-for the poet’s better,
-which never comes.
+In words more eloquent than I can pen,  
+I have loved and lost, and now I wait in melancholy agony  
+for the poet’s better,  
+which never comes.  
 
-So, then, go now about your two-thirds, 
-and leave this half-man be; 
-living a memory that never was.
+So, then, go now about your two-thirds,  
+an]nd leave this half-man be;  
+living a memory that never was.  
