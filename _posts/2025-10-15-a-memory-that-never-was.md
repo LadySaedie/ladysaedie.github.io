@@ -23,6 +23,6 @@ I have loved and lost, and now I wait in melancholy agony
 for the poet’s better,  
 which never comes.  
 
-So, then, go now about your two-thirds,  
+So, go now about your two-thirds,  
 and leave this half-man be;  
 living a memory that never was.  
