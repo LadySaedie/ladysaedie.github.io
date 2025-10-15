@@ -9,7 +9,7 @@ excerpt: I used Tennyson's 'Tis better to have loved...' as my muse, at 2 a.m. t
 pin: false
 toc: true
 image:
-  path: /assets/img/a-memory-that-never-was.png
+  path: /assets/img/img.png
   alt: "A Memory That Never Was"
 ---
 
