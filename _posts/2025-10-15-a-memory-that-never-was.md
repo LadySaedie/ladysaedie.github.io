@@ -24,5 +24,5 @@ for the poet’s better,
 which never comes.  
 
 So, then, go now about your two-thirds,  
-an]nd leave this half-man be;  
+and leave this half-man be;  
 living a memory that never was.  
