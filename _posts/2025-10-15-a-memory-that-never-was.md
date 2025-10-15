@@ -1,6 +1,6 @@
 ---
 title: "A Memory That Never Was"
-description: This is what happens.
+description: Nothing happened.
 date: 2025-10-15
 last_modified_at: 2025-10-15T02:00+02:00
 categories: [Autobiographical, Adult]
@@ -9,8 +9,8 @@ excerpt: I used Tennyson's 'Tis better to have loved...' as my muse, at 2 a.m. t
 pin: false
 toc: true
 image:
-  path: /assets/img/img.jpg
-  alt: "...whatever..."
+  path: /assets/img/a-memory-that-never-was.jpg
+  alt: "A Memory That Never Was"
 ---
 
 A third my age, you awoke in me the man half my age.  
