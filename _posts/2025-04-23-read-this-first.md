@@ -1,21 +1,73 @@
 ---
-title: "READ THIS FIRST"
-description: Why 'Recent Updates' doesn't always change
-date: 2025-04-22
-last_modified_at: 2025-04-27T21:00+02:00
+title: "WELCOME - Read This First"
+description: An intro to my blog which also contains help on how to create blog posts on Github. This is an ongoing project.
+date: 2025-11-04
+last_modified_at: 2025-11-04T00:00+02:00
 pin: true
 image:
   path: /assets/img/first.jpg
-  alt: "...read this first..."
+  alt: "Intro to my blog."
 ---
 
-This is a new blog. I have moved away from Blogspot, Wordpress and most recently from Substack to host my own blog on Github where I have so much more control, and there's no more pesky ads.
+This is my new blog. I have moved from Blogspot, Wordpress and more recently from Substack to host my own blog on Github where I have so much more control, and there's no more pesky ads.
 
-All my old blog posts are being relocated piecemeal and edited on the fly, so 'new' posts might not always appear in the 'Recent Updates' list on the right if I do more than five updates before you log in again. It's therefore a good idea to check the 'Archive' section on the left and scroll up and down to find the posts you haven't read yet. This is temporary.
+Please check the 'Archive' page (tab on the left) and scroll up and down to find the posts you haven't read yet.
 
-Pictures will be added presently.
-
-I will remove this post once I have copied across all the legacy stuff, but it'll take some time.
+I am also in throes of writing a help file to create posts on Github. It's incomplete, but I hope it's helpful. 
 
 Regards,  
 Philip
+
+
+**CAVEAT - this help is not complete. I am building it slowly.**  
+
+
+HOW TO CREATE A POST USING Github Codespace:
+
+`1.` Sign in (top right).  
+`2.` Click green button: '< > Code'.  
+`3.` Click tab: 'Codespaces' (if not already selected).  
+`4.` Select an existing Codespace, or click '+' icon to create a new one.  
+`5.` Wait while it builds.  
+`6.` In the terminal window at the bottom of the Codespace, type:  
+`bundle exec jekyll serve`  
+`7.` Wait while it builds the preview website, then click the green 'Open in browser?' (bottom right, usually). Use this to preview your website on-the-fly while editing, before committing.  
+
+`-` You will need to do 6 & 7 again if you let the Codespace close.  
+`-` You will need to do 1 to 7 again if you let Codespace be deleted.  
+
+Every post must START with the 'front matter', including the three dashes top and bottom. See sample below.
+
+`---`  
+title: "Title of the Post in Quote Marks"   
+description: Any description on only one line. No quote marks.  
+date: 2024-12-01  
+last_modified_at: 2025-04-21T00:00+02:00  
+categories: [One, Two, SeeBelow]  
+tags: [three, four, see below]  
+excerpt: Any text you want. No quote.  
+pin: false  
+toc: true  
+image:  
+&nbsp;&nbsp;path: /assets/img/image-name.jpg  
+&nbsp;&nbsp;alt: "...whatever text you want to appear under your image..."  
+`---`  
+This is where your post text starts.
+
+Every post must have the extension .md (not .txt!), e.g., 2025-01-01-New-Year.md  
+TIP: I insert an optional date prefix in the filename, e.g., "ccyy-mm-dd-name-of-file.md" This allows me to keep the chronological order of posts when I add a post which was written earlier.
+
+Catalogues (I renamed mine to 'Categories'): one word, initial capital, comma and space inside square brackets.  
+The first word is the main catalogue, followed by one subcatalogue only.  
+E.g.,
+[Autobiographical, Adult or Child or Teenager]  
+[Family, Extended or Immediate]  
+[Fiction, Absurd or Crypto or Musings]  
+
+key words (tags):  
+Lower case, comma and space, multiple words between commas inside square brackets.  
+[any, any more, words you, like]  
+
+IMAGES:  
+Best is 1275 x 675 @ 72  
+The grey background colour varies from device to device, so just use dark grey. 
