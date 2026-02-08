@@ -1,8 +1,8 @@
 ---  
 title: "Shaken and Stirred"   
 description: ...I swerved instinctively and screeched to a halt...  
-date: 2026-02-09  
-last_modified_at: 2026-02-09T00:00+02:00  
+date: 2026-02-08  
+last_modified_at: 2026-02-08  
 categories: [Autobiographical, Adult]  
 tags: [children, driveway, vehicle, accident, haunting, run over, what-if, taxi]  
 excerpt: I was driving away after dropping Sarah off at Warner Beach Junior Primary one busy morning, when, all of a sudden, a child darted out in front of me from between two parked cars.  
