@@ -15,6 +15,7 @@ image:
 
 *I've just sent this out in our weekly school newsletter (The School Pennywhistle section), prompted by the heartbreaking news from Thanda Primary in Mpumalanga last week, where a little Grade R girl was killed by a reversing school bus. It comes on the heels of other awful incidents, like the Vanderbijlpark taxi crash a couple of weeks ago that killed 14 children, and at least two school-driveway deaths last year. These stories have shaken me deeply, and they have stirred me to act, as principal of the school, to prevent anything like this ever happening at Little Star.*  
 
+--  
 
 Dear Parents,  
 
@@ -32,6 +33,6 @@ That no lasting harm was done is no excuse and brings no respite, and no amount 
 
 So, when I talk to you in the driveway about the way you just drove up, or the way you just parked, or the way you just let your child amble unsupervised behind parked cars on their way up to the school gate, you’ll understand why I get emotional. It’s not judgement. It’s a living memory…and it’s a plea to keep our little ones safe.  
 
---
+--  
 *At Little Star, we remain resolute in our commitment to safety: children are not permitted to walk unattended in the school driveway during drop-off and pick-up times. Please get out of your car and walk your child to and from the school gate. This rule will be strictly enforced, and parents will be heavily fined for breaking it. Every child must hold the hand of a responsible adult and walk only on the designated path in front of the parked cars, not behind them. We ask all parents, caregivers, and taxi drivers to support us in keeping our little ones safe in the school driveway.*  
 --
