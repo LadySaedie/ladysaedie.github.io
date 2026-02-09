@@ -29,7 +29,7 @@ I apologised to the young dad. “I’m SO sorry! I didn’t see her!” I said.
 
 You know, to this day, over thirty years later, I still play that incident over and over in my head, like it was only yesterday, running through all the ‘what-ifs’ in an endless, haunting loop. What if I’d been one second earlier? What if I hadn’t swerved? What if I hadn’t been paying attention? What if I’d been going a bit faster? What if? What if? The dreadful outcome remains the same each time: I would have driven over her and killed her.  
 
-That no lasting harm was done is no excuse and brings no respite, and no amount of trying to forgive myself, or thanking God and our guardian angels for the way things turned out brings consolation or closure. You don't ever get over something like that.  
+That no lasting harm was done is no excuse and brings no respite, and no amount of trying to forgive myself, nor thanking God and our guardian angels for the way things turned out brings consolation or closure. You don't ever get over something like that.  
 
 So, when I talk to you in the driveway about the way you just drove up, or the way you just parked, or the way you just let your child amble unsupervised behind parked cars on their way up to the school gate, you’ll understand why I get emotional. It’s not judgement. It’s a living memory…and it’s a plea to keep our little ones safe.  
 
