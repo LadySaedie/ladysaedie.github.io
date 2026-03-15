@@ -38,7 +38,8 @@ Come Monday, there was a completely different atmosphere at school. Jonathan cam
   
 ---
   
-<figure style="text-align: center;">
-  <img src="/assets/img/carol-millington-real-pic-small.jpg" alt="Portrait of Carol Millington" style="max-width: 75%; height: auto;" />
-  <figcaption><em>Carol Millington (front left) c.1973. Picture rediscovered March 2026 while packing up my house to move to Sarah's.</em></figcaption>
+<figure style="text-align: centre;">
+  <img src="/assets/img/carol-millington-real-pic-small.jpg" alt="Portrait of Carol Millington" style="max-width: 80%; height: auto; display: block; margin: 0 auto;" />
+  <figcaption><em>*Carol Millington (front left) c.1973.  
+  Picture rediscovered March 2026 while packing up my house to move to Sarah's*.</em></figcaption>
 </figure>
