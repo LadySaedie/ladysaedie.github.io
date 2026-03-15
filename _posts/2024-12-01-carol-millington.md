@@ -35,12 +35,11 @@ Come Monday, there was a completely different atmosphere at school. Jonathan cam
    “What?”
 
    “Yeah. Died in a fire. Went back in for her dad.”  
-&nbsp;
-&nbsp;
+
+<div style="height: 2em;"></div>
 ---
-&nbsp;
-&nbsp;  
-<figure style="text-align: centre;">
+<figure style="text-align: center;">
   <img src="/assets/img/carol-millington-real-pic-small.jpg" alt="Portrait of Carol Millington" style="max-width: 80%; height: auto; display: block; margin: 0 auto;" />
   <figcaption><em>Carol Millington (front left) c.1973. Picture rediscovered in March 2026 while moving house.</em></figcaption>
-</figure>
+</figure>  
+---
