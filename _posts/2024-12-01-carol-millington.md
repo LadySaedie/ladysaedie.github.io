@@ -1,7 +1,7 @@
 ---
 title: "Carol Millington"
 date: 2024-12-01
-last_modified_at: 2026-03-15
+last_modified_at: 2026-03-14
 description: A True Story.
 categories: [Autobiographical, Teenager]
 tags: [carol, sing, high school, died, fire, jesus christ, superstar, how to love him]
