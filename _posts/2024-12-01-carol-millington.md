@@ -40,6 +40,6 @@ Come Monday, there was a completely different atmosphere at school. Jonathan cam
 ---
 <figure style="text-align: center;">
   <img src="/assets/img/carol-millington-real-pic-small.jpg" alt="Portrait of Carol Millington" style="max-width: 75%; height: auto; display: block; margin: 0 auto;" />
-  <figcaption><em>Carol Millington (front left) c.1973. This picture was rediscovered in March 2026 while I was packing to move house. I remember 'having' this photo but I thought I had lost it. I can't remember why I had the photo, though. I know my dad was a photographer at the time and he may have been asked to do something with the pic. This still doesn't adequately explain how I came to have it, though. Lastly, if I recall correctly, Carol's brother (to her left) also died in the fire.</em></figcaption>
+  <figcaption><em>Carol Millington (front left) c.1973. This picture was rediscovered in March 2026 while I was packing to move house. I remember 'having' this photo but I thought I had lost it. I can't remember why I had the photo, though. I know my dad was a photographer at the time and he may have been asked to do something with the pic. This still doesn't adequately explain how I came to have it, though. Lastly, if I recall correctly, Carol's brother (to her left) also died.</em></figcaption>
 </figure>  
 ---
