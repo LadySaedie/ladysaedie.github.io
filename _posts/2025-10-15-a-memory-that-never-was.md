@@ -21,7 +21,7 @@ and I fell, stumbling heartlong into the pit of want.
 
 In words more eloquent than I can pen:  
 I have loved and lost, and now I wait in melancholy agony  
-for the poet’s 'better',  
+for the poet’s 'better...'  
 which never comes.  
 
 So, go now about your two-thirds,  
