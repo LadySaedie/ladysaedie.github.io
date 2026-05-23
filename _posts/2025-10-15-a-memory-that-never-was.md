@@ -29,4 +29,4 @@ and leave this half-man be;
 living a memory that never was.  
 
 --  
-*This poem sprang wholly from my own reflections in 2025. After writing it, I came across something Kierkegaard wrote about the pain of "remembering the future you'll never have". I also read something that Schopenhauer wrote about no one lives in the past. The similarity between these two great philosophers' thoughts and my humble poem, while delightfully affirming, is  entirely coincidental. The central image and phrasing in my poem, especially '...living a memory that never was...', are original to me.*  
+*This poem sprang wholly from my own reflections in 2025. After writing it, I came across something Kierkegaard wrote about the pain of "remembering the future you'll never have". I also read something that Schopenhauer wrote about 'no one lives in the past'. The similarity between these two great philosophers' thoughts and my little poem, while delightfully affirming, is  entirely coincidental. The central image and phrasing in my poem, especially '...living a memory that never was...', are original to me.*  
