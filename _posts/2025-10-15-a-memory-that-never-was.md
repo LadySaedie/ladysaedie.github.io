@@ -17,12 +17,12 @@ published: true
 A third my age, you awoke in me the man half my age.  
 My cause was lost before it began.  
 My reason's voice drowned in unheeded hopeless pleas  
-and I fell, stumbling heartlong into the pit of want.  
+and I stumbled heartlong into the pit of fumbling want.  
 
 In words more eloquent than I can pen:  
 I have loved and lost, and now I wait in melancholy agony  
 for the poet’s 'better...'  
-which never comes.  
+which does not come.  
 
 So, go now about your two-thirds,  
 and leave this half-man be;  
