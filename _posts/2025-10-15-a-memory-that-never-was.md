@@ -2,7 +2,7 @@
 title: "A Memory That Never Was"
 description: Nothing happened.
 date: 2025-10-15
-last_modified_at: 2026-02-08T17:00+02:00
+last_modified_at: 2026-05-23T14:00+02:00
 categories: [Autobiographical, Adult]
 tags: [love, unrequited, melancholy, ache]
 excerpt: I used Tennyson's 'Tis better to have loved...' as my muse, at 2 a.m. this morning.
