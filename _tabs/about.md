@@ -1,7 +1,8 @@
 ---
 # the default layout is 'page'  
-# The code below places an'i' in a solid circle icon next to the text 'By the wey...' on the tab on the blog page 
-icon: fas fa-info-circle
+# The code below places an 'i' in a solid circle icon next to the text 'By the wey...' on the tab on the blog page 
+icon: fas fa-info-circle  
+# The code below makes the 'By the way...' tab fourth on the blog page  
 order: 4
 ---
 
