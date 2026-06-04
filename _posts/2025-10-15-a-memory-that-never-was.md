@@ -15,11 +15,11 @@ image:
 
 A third my age, you awoke in me the man half my age.  
 My cause was lost before it began.  
-My reason's voice drowned in unheeded hopeless pleas  
+My reason's voice drowned unheeded in hopeless pleas  
 and I stumbled heartlong into the pit of fumbling want.  
 
 In words more eloquent than I can pen:  
-I have loved and lost, 
+I have loved and lost,  
 and now I wait with a melancholy ache  
 for the poet’s 'better...'  
 which does not come.  
