@@ -1,17 +1,16 @@
 ---
 title: "A Memory That Never Was"
-description: Nothing happened.
+description: Nothing happened...only a slow, inexorable descent.
 date: 2025-10-15
-last_modified_at: 2026-05-23T14:00+02:00
+last_modified_at: 2026-06-04
+published: true
 categories: [Autobiographical, Adult]
-tags: [love, unrequited, melancholy, ache]
-excerpt: I used Tennyson's 'Tis better to have loved...' as my muse, at 2 a.m. this morning.
+tags: [love, unrequited, melancholy, ache, tennyson, loved and lost]
 pin: false
 toc: true
 image:
   path: /assets/img/a-memory-that-never-was.png
   alt: "A Memory That Never Was"
-published: true
 ---
 
 A third my age, you awoke in me the man half my age.  
