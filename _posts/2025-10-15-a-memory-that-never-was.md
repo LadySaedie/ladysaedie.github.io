@@ -20,7 +20,8 @@ My reason's voice drowned in unheeded hopeless pleas
 and I stumbled heartlong into the pit of fumbling want.  
 
 In words more eloquent than I can pen:  
-I have loved and lost, and now I wait in melancholy agony  
+I have loved and lost, 
+and now I wait with a melancholy ache  
 for the poet’s 'better...'  
 which does not come.  
 
