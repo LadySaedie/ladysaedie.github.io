@@ -6,7 +6,7 @@ last_modified_at: 2026-09-27
 categories: [Autobiography, Adult]  
 tags: [birth, matthew, fatherhood, childirth, family, faith, daddy]  
 published: true
-pin: true
+pin: false
 toc: true
 # image:
 #  path: /assets/img/gift-from-god.jpg
