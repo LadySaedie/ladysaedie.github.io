@@ -8,9 +8,9 @@ tags: [birth, matthew, fatherhood, childirth, family, faith, daddy]
 published: true
 pin: false
 toc: true
-# image:
-#  path: /assets/img/gift-from-god.jpg
-#  alt: "Gift from God"
+image:
+  path: /assets/img/gift-from-god.jpg
+  alt: "Gift from God"
 ---  
 
 This is a true story; the story of the birth of our first child. It’s dedicated to all four of our children: Matthew, Sarah, Nathan, and Elizabeth who died before being born, and to my wife, Anne, without whose willing participation this story would probably not have happened.  
