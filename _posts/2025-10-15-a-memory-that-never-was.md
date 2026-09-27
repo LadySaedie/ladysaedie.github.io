@@ -3,7 +3,7 @@ title: "A Memory That Never Was"
 description: Nothing happened...only a slow, inexorable descent.
 date: 2025-10-15
 last_modified_at: 2026-06-04
-published: true
+published: false
 categories: [Autobiographical, Adult]
 tags: [love, unrequited, melancholy, ache, tennyson, loved and lost]
 pin: false
