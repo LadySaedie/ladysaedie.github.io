@@ -27,9 +27,9 @@ image:
 
 “For heaven’s sake, Beveridge! Stop muttering and help me look! A good gavel is a good judge!” 
 
-“Yes, m’lud. Was it not indeed a generous and munificent gesture of Ms Marlow to bake those dainties for m’lud’s morning tea?”
+“Yes, m’lud. Was it not indeed a generous and munificent gesture of Mrs Marlow to bake those dainties for m’lud’s morning tea?”
 
-“Beveridge, what’s Ms Marlow’s muffins got to do with my gavel? Do you not understand the urgency of the situation? Mrs Marlow's case is up next, and the court is not possessed of its gavel! Now stop rambling about this morning’s muffins, and help me look!” 
+“Beveridge, what’s Mrs Marlow’s muffins got to do with my gavel? Do you not understand the urgency of the situation? Mrs Marlow's case is up next, and the court is not possessed of its gavel! Now stop rambling about this morning’s muffins, and help me look!” 
 
 “Indeed, m’lud. As I was saying, m’lud. Was it not entirely possible that out of deference to such an attentive courtesy paid by m’lud’s favourite lady acquaintance, that m’lud took it upon himself to consume all six bran muffins in one sitting?”
 
@@ -40,3 +40,4 @@ image:
 <br>
 <hr>
 *Inspired partly by “Love Among The Ruins” (1975, Laurence Olivier and Katharine Hepburn).*
+<hr>
